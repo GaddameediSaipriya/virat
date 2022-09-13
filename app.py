@@ -13,21 +13,6 @@ if st.button('predict'):
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   
   
   
