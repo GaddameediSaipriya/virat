@@ -10,9 +10,3 @@ if st.button('predict'):
 
   
   
-  
-  
-  
-   
-  
-  
