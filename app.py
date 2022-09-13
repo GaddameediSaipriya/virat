@@ -9,4 +9,4 @@ if st.button('predict'):
   st.title(output[0])         
 
   
-  
+       
